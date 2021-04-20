@@ -1,6 +1,10 @@
 version: 2
 jobs:
   build:
+    filters:
+      branches:
+        only:
+          - master
     docker:
       - image: cimg/node:12.16
     working_directory: ~/repo
