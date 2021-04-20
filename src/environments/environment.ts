@@ -5,14 +5,14 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: '<your-key>',
-    authDomain: '<your-project-authdomain>',
-    databaseURL: '<your-database-URL>',
-    projectId: '<your-project-id>',
-    storageBucket: '<your-storage-bucket>',
-    messagingSenderId: '<your-messaging-sender-id>',
-    appId: '<your-app-id>',
-    measurementId: '<your-measurement-id>'
+    apiKey: 'AIzaSyAyvHA15_LfRhcasAoq9oxR_NBPe7w7nyc',
+    authDomain: 'parkradar-c8987.firebaseapp.com',
+    databaseURL: 'https://parkradar-c8987-default-rtdb.europe-west1.firebasedatabase.app',
+    projectId: 'parkradar-c8987',
+    storageBucket: 'parkradar-c8987.appspot.com',
+    messagingSenderId: '50084800244',
+    appId: '1:50084800244:web:a7ecbff4b8f94f443a60a1',
+    measurementId: 'G-FN4WPNPT39'
   }
 };
 
