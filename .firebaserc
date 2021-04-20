@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "parkradar-c8987"
+  },
+  "targets": {
+    "parkradar-c8987": {
+      "hosting": {
+        "app": [
+          "parkradar-c8987"
+        ]
+      }
+    }
   }
 }
