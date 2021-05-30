@@ -4,4 +4,11 @@
 
 ## Tech-Stack
 
-### - Angular
+### Frontend:
+- Angular
+- Ionic
+### Backend:
+- Firebase
+### DevOps:
+- Github
+- CircleCI
