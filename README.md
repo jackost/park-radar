@@ -5,6 +5,7 @@
 ## Tech-Stack
 
 ### Frontend:
+- TypeScript
 - Angular
 - Ionic
 ### Backend:
