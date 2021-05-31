@@ -9,7 +9,8 @@ import {Observable} from 'rxjs';
 })
 export class AppComponent {
   public appPages = [
-    { title: 'Inbox', url: '/folder/Inbox', icon: 'mail' }
+    { title: 'Parks', url: '/folder/Parks', icon: 'sunny' },
+    { title: 'Seen', url: '/folder/Seen', icon: 'ellipse' }
   ];
   public labels = ['Family'];
   items: Observable<any[]>;
